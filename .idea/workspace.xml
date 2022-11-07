@@ -3,20 +3,21 @@
   <component name="CMakePresetLoader"><![CDATA[{
   "useNewFormat": true
 }]]></component>
-  <component name="CMakeReloadState">
-    <option name="reloaded" value="true" />
-  </component>
-  <component name="CMakeRunConfigurationManager">
-    <generated />
-  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cae8e289-5972-4f1e-87de-86abbacb0a8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    <list default="true" id="626ccb93-7373-43d0-a2d7-8e6bba2c6a6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/Assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/Last Digit of a Large Fibonacci Number/fibonacci_last_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/Last Digit of a Large Fibonacci Number/fibonacci_last_digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/Maximum Advertising Revenue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/Maximum Advertising Revenue/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,20 +27,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectApplicationVersion">
-    <option name="ide" value="CLion" />
-    <option name="majorVersion" value="2022" />
-    <option name="minorVersion" value="2.3" />
-  </component>
-  <component name="ProjectId" id="2H0cNxA1hYwvJ2ZtU31hDXIfWe9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2HEYNpjUVlDDplUZVaGvxsVUsvZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,25 +46,18 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/ibrahim/MyPC/Projects/Algorithms/Assignment2/Maximum Advertising Revenue"
+    "last_opened_file_path": "/home/ibrahim/MyPC/Projects/Algorithms"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cae8e289-5972-4f1e-87de-86abbacb0a8d" name="Changes" comment="" />
-      <created>1667425404543</created>
+      <changelist id="626ccb93-7373-43d0-a2d7-8e6bba2c6a6f" name="Changes" comment="" />
+      <created>1667851672982</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667425404543</updated>
-      <workItem from="1667425405728" duration="1162000" />
+      <updated>1667851672982</updated>
+      <workItem from="1667851674621" duration="256000" />
     </task>
     <servers />
   </component>
