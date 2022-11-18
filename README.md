@@ -3,14 +3,11 @@
   [Based on Coursera's Algorithmic Toolbox, Data Structures Courses by 
 University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
 
+### Assignments
 
 - Assignment 1 
   - [Last Digit of a Large Fibonicci Number](./Assignment1/Last%20Digit%20of%20a%20Large%20Fibonacci%20Number/)
   - [Modulo Fibonacci Number](./Assignment1/Modulo%20Fibonacci%20Number/)
-
-- Homework 1 
-  - [Recurrence Relation](./Homework%201/Recurrence%20Relation.pdf)
-
 
 - Assignment 2 
   - [Maximum Advertisement Revenue](./Assignment2/Maximum%20Advertising%20Revenue/)
@@ -19,3 +16,14 @@ University of California San Diego](https://www.coursera.org/specializations/dat
 
 - Assignment 3
   - [Closest Points](./Assignment3/Closest%20Points/)
+
+
+<hr>
+
+### T.A Homeworks
+
+- Homework 1 
+  - [Recurrence Relation](./Homework%201/Recurrence%20Relation.pdf)
+
+- Homework 2 
+  - [Time Complexity & Search Technique](./Homework%202/HW%20Problem%202.pdf)
