@@ -17,6 +17,10 @@ University of California San Diego](https://www.coursera.org/specializations/dat
 - Assignment 3
   - [Closest Points](./Assignment3/Closest%20Points/)
 
+- Assignment 4
+  - [Longest Common Subsequence of Two Sequences](./Assignment%204/Longest%20Common%20Subsequence%20of%20Two%20Sequences/)
+
+
 
 <hr>
 
