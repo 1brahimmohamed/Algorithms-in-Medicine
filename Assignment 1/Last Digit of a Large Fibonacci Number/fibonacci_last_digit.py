@@ -48,7 +48,7 @@ def last_digit_of_fib(n):
 
 if __name__ == '__main__':
 
-    input = sys.stdin.read()
+    input = sys.stdin.readline()
     n = int(input)
     print(last_digit_of_fib(n))
 
