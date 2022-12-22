@@ -23,6 +23,10 @@ University of California San Diego](https://www.coursera.org/specializations/dat
 - Assignment 5
   - [Network Simulation (Process Packages)](./Assignment%205/Network%20simulation/)
 
+  - Assignment 5
+  - [Is Binary Search Tree? (isBST)](./Assignments%206/)
+
+
 
 <hr>
 
