@@ -13,7 +13,6 @@ University of California San Diego](https://www.coursera.org/specializations/dat
   - [Maximum Advertisement Revenue](./Assignment2/Maximum%20Advertising%20Revenue/)
   - [Divide and Conquer for Number of Inversions](./Assignment2/Divide%20and%20Conquer%20for%20Number%20of%20Inversions/s)
 
-
 - Assignment 3
   - [Closest Points](./Assignment3/Closest%20Points/)
 
@@ -29,6 +28,10 @@ University of California San Diego](https://www.coursera.org/specializations/dat
 - Assignment 7
   - [Array to Heap](./Assignment%207/Convert%20Array%20to%20Heap/)
   - [Merge Tables](./Assignment%207/Merge%20Tables/)
+
+- Assignment 7
+  - [Hashing with Chains](./Assignment%208/Hash%20Chains/)
+  - [Longest common substring (Hashing)](./Assignment%208/Longest%20Common%20Substring/)
 
 
 
